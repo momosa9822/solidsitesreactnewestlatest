@@ -176,6 +176,7 @@ const ContactForm7 = (props) => {
                 rows="3"
                 placeholder="Enter your message"
                 name="message"
+                required
                 className="thq-input"
               ></textarea>
             </div>
