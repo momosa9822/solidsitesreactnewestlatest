@@ -1,0 +1,455 @@
+.pricing-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.pricing-text100 {
+  display: inline-block;
+}
+ 
+.pricing-text101 {
+  display: inline-block;
+}
+ 
+.pricing-text102 {
+  display: inline-block;
+}
+ 
+.pricing-text103 {
+  display: inline-block;
+}
+ 
+.pricing-text104 {
+  display: inline-block;
+}
+ 
+.pricing-text105 {
+  display: inline-block;
+}
+ 
+.pricing-text106 {
+  display: inline-block;
+}
+ 
+.pricing-text107 {
+  display: inline-block;
+}
+ 
+.pricing-text108 {
+  display: inline-block;
+}
+ 
+.pricing-text109 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text110 {
+  display: inline-block;
+}
+ 
+.pricing-text111 {
+  display: inline-block;
+}
+ 
+.pricing-text112 {
+  display: inline-block;
+}
+ 
+.pricing-text113 {
+  display: inline-block;
+}
+ 
+.pricing-text114 {
+  color: rgb(255, 255, 255);
+  display: inline-block;
+  font-size: 20px;
+  font-style: normal;
+  font-family: "Inter";
+  font-weight: 500;
+  line-height: 1.15;
+  text-transform: capitalize;
+  text-decoration: none;
+  background-color: rgb(0, 124, 255);
+}
+ 
+.pricing-text115 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text116 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text117 {
+  display: inline-block;
+}
+ 
+.pricing-text118 {
+  display: inline-block;
+}
+ 
+.pricing-text119 {
+  display: inline-block;
+}
+ 
+.pricing-text120 {
+  display: inline-block;
+}
+ 
+.pricing-text121 {
+  display: inline-block;
+}
+ 
+.pricing-text122 {
+  display: inline-block;
+}
+ 
+.pricing-text123 {
+  display: inline-block;
+}
+ 
+.pricing-text124 {
+  display: inline-block;
+}
+ 
+.pricing-text125 {
+  display: inline-block;
+}
+ 
+.pricing-text126 {
+  display: inline-block;
+}
+ 
+.pricing-text127 {
+  color: #ffffff;
+  display: inline-block;
+}
+ 
+.pricing-text128 {
+  display: inline-block;
+}
+ 
+.pricing-text129 {
+  display: inline-block;
+}
+ 
+.pricing-text130 {
+  display: inline-block;
+}
+ 
+.pricing-text131 {
+  display: inline-block;
+}
+ 
+.pricing-text132 {
+  display: inline-block;
+}
+ 
+.pricing-text133 {
+  display: inline-block;
+}
+ 
+.pricing-text134 {
+  display: inline-block;
+}
+ 
+.pricing-text135 {
+  display: inline-block;
+}
+ 
+.pricing-text136 {
+  display: inline-block;
+}
+ 
+.pricing-text137 {
+  display: inline-block;
+}
+ 
+.pricing-text138 {
+  display: inline-block;
+}
+ 
+.pricing-text139 {
+  display: inline-block;
+}
+ 
+.pricing-text140 {
+  display: inline-block;
+}
+ 
+.pricing-text141 {
+  display: inline-block;
+}
+ 
+.pricing-text142 {
+  display: inline-block;
+}
+ 
+.pricing-text143 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text144 {
+  display: inline-block;
+}
+ 
+.pricing-text145 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text146 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text147 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text148 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text149 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text150 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text151 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text152 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text153 {
+  display: inline-block;
+}
+ 
+.pricing-text154 {
+  display: inline-block;
+}
+ 
+.pricing-text155 {
+  display: inline-block;
+}
+ 
+.pricing-text156 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text157 {
+  display: inline-block;
+}
+ 
+.pricing-text158 {
+  display: inline-block;
+}
+ 
+.pricing-text159 {
+  display: inline-block;
+}
+ 
+.pricing-text160 {
+  display: inline-block;
+}
+ 
+.pricing-text161 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text162 {
+  display: inline-block;
+}
+ 
+.pricing-text163 {
+  display: inline-block;
+}
+ 
+.pricing-text164 {
+  display: inline-block;
+}
+ 
+.pricing-text165 {
+  display: inline-block;
+}
+ 
+.pricing-text166 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text167 {
+  display: inline-block;
+}
+ 
+.pricing-text168 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text169 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text170 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text171 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text172 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text173 {
+  display: inline-block;
+}
+ 
+.pricing-text174 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text175 {
+  display: inline-block;
+}
+ 
+.pricing-text176 {
+  display: inline-block;
+}
+ 
+.pricing-text177 {
+  display: inline-block;
+}
+ 
+.pricing-text178 {
+  display: inline-block;
+}
+ 
+.pricing-text179 {
+  display: inline-block;
+}
+ 
+.pricing-text180 {
+  display: inline-block;
+}
+ 
+.pricing-text181 {
+  display: inline-block;
+}
+ 
+.pricing-text182 {
+  display: inline-block;
+}
+ 
+.pricing-text183 {
+  display: inline-block;
+}
+ 
+.pricing-text184 {
+  display: inline-block;
+}
+ 
+.pricing-text185 {
+  display: inline-block;
+}
+ 
+.pricing-text186 {
+  display: inline-block;
+}
+ 
+.pricing-text190 {
+  display: inline-block;
+}
+ 
+.pricing-text191 {
+  display: inline-block;
+  text-transform: capitalize;
+}
+ 
+.pricing-text192 {
+  display: inline-block;
+}
+ 
+.pricing-text193 {
+  display: inline-block;
+}
+ 
+.pricing-text194 {
+  display: inline-block;
+}
+ 
+.pricing-text195 {
+  display: inline-block;
+}
+ 
+.pricing-text196 {
+  display: inline-block;
+}
+ 
+.pricing-text197 {
+  display: inline-block;
+}
+ 
+.pricing-text198 {
+  display: inline-block;
+}
+ 
+.pricing-text199 {
+  display: inline-block;
+}
+ 
+.pricing-text200 {
+  display: inline-block;
+}
+ 
+.pricing-text201 {
+  display: inline-block;
+}
+ 
+.pricing-text202 {
+  display: inline-block;
+}
+ 
+.pricing-text203 {
+  display: inline-block;
+}
+ 
+.pricing-text204 {
+  display: inline-block;
+}
+ 
+.pricing-text205 {
+  display: inline-block;
+}
+ 
+.pricing-text206 {
+  display: inline-block;
+}

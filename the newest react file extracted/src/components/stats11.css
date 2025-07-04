@@ -1,0 +1,152 @@
+.stats11-max-width {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.stats11-container2 {
+  gap: var(--dl-layout-space-twounits);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  z-index: 100;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+ 
+.stats11-title {
+  text-align: center;
+  background-image: linear-gradient(90deg, rgb(197, 0, 255) 27.00%,rgb(255, 255, 255) 97.00%);
+}
+ 
+.stats11-container3 {
+  width: 100%;
+  z-index: 100;
+}
+ 
+.stats11-container4 {
+  gap: var(--dl-layout-space-unit);
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--dl-color-theme-neutral-light);
+}
+ 
+.stats11-text11 {
+  text-align: justify;
+}
+ 
+.stats11-text12 {
+  white-space: nowrap;
+}
+ 
+.stats11-container5 {
+  gap: var(--dl-layout-space-unit);
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--dl-color-theme-neutral-light);
+}
+ 
+.stats11-text14 {
+  text-align: justify;
+}
+ 
+.stats11-text15 {
+  white-space: nowrap;
+}
+ 
+.stats11-container6 {
+  gap: var(--dl-layout-space-unit);
+  flex: 1;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: var(--dl-color-theme-neutral-light);
+}
+ 
+.stats11-text17 {
+  text-align: justify;
+}
+ 
+.stats11-text18 {
+  white-space: nowrap;
+}
+ 
+.stats11-image {
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 100%;
+  position: absolute;
+  object-fit: cover;
+}
+ 
+.stats11-text19 {
+  display: inline-block;
+}
+ 
+.stats11-text20 {
+  display: inline-block;
+}
+ 
+.stats11-text21 {
+  display: inline-block;
+}
+ 
+.stats11-text22 {
+  display: inline-block;
+}
+ 
+.stats11-text23 {
+  display: inline-block;
+}
+ 
+.stats11-text24 {
+  display: inline-block;
+}
+ 
+.stats11-text25 {
+  display: inline-block;
+}
+ 
+@media(max-width: 767px) {
+  .stats11-max-width {
+    flex-direction: column;
+  }
+  .stats11-title {
+    text-align: center;
+  }
+  .stats11-container4 {
+    align-self: flex-start;
+  }
+  .stats11-text10 {
+    align-self: center;
+  }
+  .stats11-container5 {
+    align-self: flex-start;
+  }
+  .stats11-text13 {
+    align-self: center;
+  }
+  .stats11-container6 {
+    align-self: flex-start;
+  }
+  .stats11-text16 {
+    align-self: center;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .stats11-title {
+    align-self: center;
+    text-align: center;
+  }
+}
