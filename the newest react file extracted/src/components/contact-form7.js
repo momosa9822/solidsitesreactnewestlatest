@@ -75,7 +75,8 @@ const ContactForm7 = (props) => {
           data-netlify="true"
           className="contact-form7-form thq-flex-column"
         >
-          <div className="contact-form7-container1">
+         <input type="hidden" name="form-name" value="contact" />
+            <div className="contact-form7-container1">
             <div className="contact-form7-input1">
               <label
                 htmlFor="contact-form-7-first-name"
