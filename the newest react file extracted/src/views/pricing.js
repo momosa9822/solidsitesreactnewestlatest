@@ -13,8 +13,8 @@ const Pricing = (props) => {
   return (
     <div className="pricing-container">
       <Helmet>
-        <title>Pricing - Quick Strong Sheep</title>
-        <meta property="og:title" content="Pricing - Quick Strong Sheep" />
+        <title>Pricing | SolidSites</title>
+        <meta property="og:title" content="Pricing | SolidSites" />
       </Helmet>
       <Navbar8
         link1={
