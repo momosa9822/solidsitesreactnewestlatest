@@ -73,7 +73,6 @@ const ContactForm7 = (props) => {
           name="contact"
           method="POST"
           data-netlify="true"
-          action="/"
           className="contact-form7-form thq-flex-column"
         >
          <input type="hidden" name="form-name" value="contact" />
