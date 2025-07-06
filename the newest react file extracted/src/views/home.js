@@ -138,6 +138,11 @@ const Home = (props) => {
         image8Src="https://images.unsplash.com/photo-1579389083078-4e7018379f7e?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc1MDc5MzY1NXw&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080"
         image9Src="https://images.unsplash.com/photo-1580795478844-5ed694336c90?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc1MDc5MzcxOHw&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080"
       ></Hero17>
+          <h1>Welcome to Solid Sites</h1>
+<p>
+  Solid Sites is a South African-based web design agency focused on building lightweight, fast, and conversion-driven websites for service-based businesses. Unlike template builders or bloated CMS platforms, we focus purely on speed, SEO, and simplicity.
+</p>
+
       <Features24
         feature1ImgSrc="https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&amp;cs=tinysrgb&amp;fit=max&amp;fm=jpg&amp;ixid=M3w5MTMyMXwwfDF8cmFuZG9tfHx8fHx8fHx8MTc1MDc5Mzc5OXw&amp;ixlib=rb-4.1.0&amp;q=80&amp;w=1080"
         rootClassName="features24root-class-name"
